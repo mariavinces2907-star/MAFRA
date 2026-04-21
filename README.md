@@ -27,4 +27,4 @@ MISURAZIONI:
 -Lato obliquo in alto a sinistra: 2,6 cm
 -Segmento orizzontale interno: 5,5 cm
 
-
+![dimensioni](https://github.com/[username]/](https://github.com/mariavinces2907-star/MAFRA/blob/main/cattura.PNG?raw=true)
