@@ -1,4 +1,4 @@
-# MAFRA
+# MAFRA PROGETTO
 proyectito de robotcito
 
 OBIETTIVO: realizzare un piccolo robot interattivo programmato con l'ESP32 che si muove tramite un app.
