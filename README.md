@@ -14,8 +14,10 @@ MATERIALI:
 - Un piccolo interruttore.
 - Ingranaggi 64 denti.
 
+2) In data 17/03 è stata scritta la bozza del codice per il funzionamento del robot.
 
-2) Misurazioni dello scheletro del progetto (31/03/’26) .
+
+3) Misurazioni dello scheletro del progetto (31/03/’26) .
 MISURAZIONI:
 - Lato superiore: 2,8 cm
 - Lato obliquo in alto a destra: 4 cm
@@ -29,5 +31,10 @@ MISURAZIONI:
 
 ![dimensioni](https://github.com/mariavinces2907-star/MAFRA/blob/main/Cattura.PNG)
 
+4) 08/04 è stato effettuato l'ordine dei componenti. Data prevista di arrivo: 15/04
 
-3) 
+
+5) Il codice è stato completato il 14/04.
+   
+6) Il materiale doveva arrivare il 15/04 ma sfortunatamente ritarderà.
+
