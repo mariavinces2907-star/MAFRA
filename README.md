@@ -28,3 +28,6 @@ MISURAZIONI:
 - Segmento orizzontale interno: 5,5 cm
 
 ![dimensioni](https://github.com/mariavinces2907-star/MAFRA/blob/main/Cattura.PNG)
+
+
+3) 
