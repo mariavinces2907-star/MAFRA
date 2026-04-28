@@ -47,6 +47,8 @@ MISURAZIONI:
    
 6) Il materiale doveva arrivare il 15/04 ma sfortunatamente ritarderà.
 
-7) 22/04 - 24/04 ricontrollo dei calcoli, revisione dei componenti e del codice.
+7) 22/04 ricontrollo dei calcoli, revisione dei componenti e del codice.
+   
+9) 24/04 controllo e  modificazione del materiale
    
 
