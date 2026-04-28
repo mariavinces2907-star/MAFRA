@@ -20,7 +20,7 @@ MATERIALI:
 3) Misurazioni dello scheletro del progetto (31/03/’26) .
 MISURAZIONI:
 - Lato superiore: 2,8 cm
-- Lato obliquo in alto a destra: 4 cm
+- Lato obliquo in alto a destra: 1 cm
 - Lato verticale destro: 2,6 cm
 - Lato obliquo in basso a destra: 1,3 cm
 - Lato inferiore: 3,5 cm
