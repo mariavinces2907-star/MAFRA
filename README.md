@@ -49,6 +49,6 @@ MISURAZIONI:
 
 7) 22/04 ricontrollo dei calcoli, revisione dei componenti e del codice.
    
-9) 24/04 controllo e  modificazione del materiale
+9) 28/04 controllo e  modificazione del materiale
    
 
