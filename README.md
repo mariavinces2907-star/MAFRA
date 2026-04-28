@@ -5,6 +5,7 @@ OBIETTIVO: realizzare un piccolo robot interattivo programmato con l'ESP32 che s
 
 OBIETTIVI:
 1) Organizzazione del materiale (03/03/26)
+   
 🔧 MATERIALI:
 - Filo di rame 1 mm
 - Filo di rame 0,7–0,8 mm
