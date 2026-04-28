@@ -5,19 +5,28 @@ OBIETTIVO: realizzare un piccolo robot interattivo programmato con l'ESP32 che s
 
 OBIETTIVI:
 1) Organizzazione del materiale (03/03/26)
-MATERIALI:
-- Filo in ottone ramato da 1 mm.
-- Motore in corrente continua con riduttore.
+🔧 MATERIALI:
+- Filo di rame 1 mm
+- Filo di rame 0,7–0,8 mm
 - ESP32-C3
-- Display OLED da 0,96 pollici.
-- Modulo driver per motore.
-- Un piccolo interruttore.
-- Ingranaggi 64 denti.
+- Driver motori Mini L298N
+- Display OLED 0.96"
+- 2× motorini DC con riduttore
+- 2× ingranaggi in acciaio (64 denti)
+- Batteria Li-Po 3.7V
+- Modulo ricarica USB-C (4.2V)
+- Interruttore (switch)
 
-2) In data 17/03 è stata scritta la bozza del codice per il funzionamento del robot.
+🛠️ STRUMENTI:
+- Saldatore
+- Stagno + flussante
+- Pinze / tronchesine
+- Pompa dissaldante
+
+3) In data 17/03 è stata scritta la bozza del codice per il funzionamento del robot.
 
 
-3) Misurazioni dello scheletro del progetto (31/03/’26) .
+4) Misurazioni dello scheletro del progetto (31/03/’26) .
 MISURAZIONI:
 - Lato superiore: 2,8 cm
 - Lato obliquo in alto a destra: 1 cm
