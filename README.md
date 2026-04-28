@@ -24,7 +24,7 @@ MISURAZIONI:
 - Lato verticale destro: 2,6 cm
 - Lato obliquo in basso a destra: 1,3 cm
 - Lato inferiore: 3,5 cm
-- Lato obliquo in basso a sinistra: 4,5 cm
+- Lato obliquo in basso a sinistra: 1,5 cm
 - Lato verticale sinistro: 1,5 cm
 - Lato obliquo in alto a sinistra: 2,6 cm
 - Segmento orizzontale interno: 5,5 cm
