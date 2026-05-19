@@ -60,6 +60,6 @@ MISURAZIONI:
 
     PROGETTO SU TINKERCAD:
 
-    ![dimensioni](https://github.com/mariavinces2907-star/MAFRA/blob/main/Cattura.PNG)
+    ![dimensioni](https://github.com/deleofrancesca16-cell/MAFRA/blob/main/circuitoSensore.PNG)
 
     
