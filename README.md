@@ -55,5 +55,8 @@ MISURAZIONI:
 10) 19/05 materiale mancante perciò c'è stato un cambio di progetto:
 
     NOME CIRCUITO: SENSORE DI UMIDITA'
+
     NUOVO OBIETTIVO: creare un sensore che rilevi l'umidità dal terreno.
-    PROGETTO SU TINKERCAD: 
+
+    PROGETTO SU TINKERCAD:
+    
