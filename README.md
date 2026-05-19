@@ -62,4 +62,10 @@ MISURAZIONI:
 
     ![dimensioni](https://github.com/mariavinces2907-star/MAFRA/blob/main/circuitoSensore.PNG)
 
+    NUOVI COMPONENTI:
+    - Breadboard
+    - Arduino
+    - Sensore di umidità
+    - Display LCD (I2C)
+
     
