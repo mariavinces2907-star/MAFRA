@@ -59,4 +59,6 @@ MISURAZIONI:
     NUOVO OBIETTIVO: creare un sensore che rilevi l'umidità dal terreno.
 
     PROGETTO SU TINKERCAD:
+
+    
     
