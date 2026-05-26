@@ -68,5 +68,6 @@ MISURAZIONI:
     - Sensore di umidità
     - Display LCD (I2C)
 
-    11) 26/05 progetto completato
+  
+  11) 26/05 progetto completato
 
